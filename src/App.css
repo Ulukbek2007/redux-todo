@@ -1,0 +1,11 @@
+body{
+  margin: 0 auto;
+}
+.container{
+  border: 1px solid;
+  width: 400px;
+}
+.btns{
+  display: flex;
+  margin: 10px 0;
+}
